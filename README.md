@@ -104,25 +104,3 @@ Your program's source files are to be submitted electronically on Gradescope. Th
 ### 3.2 Demo
 
 Part of your grade for this programming assignment will be based on your giving a short demo (5 minutes) during the CS480/680 scheduled labs following the assignment due date. You will be expected to talk about how your program works.
-
-
-## 4. Grading
-
-| Requirements                                                           | CS680 Credits |
-| :--------------------------------------------------------------------- | :------------ |
-| Generate Triangle Meshes: Ellipsoid, Torus, and Cylinder with end caps | 15            |
-| Implement EBO for defining your meshes                                 | 10            |
-| Generate normals for your meshes, and implement normal visualization   | 5             |
-| Illuminate your meshes with diffuse, specular, and ambient components  | 20            |
-| Support 3 different light types (point, infinite, spotlight)           | 15            |
-| Create 3 different scenes                                              | 15            |
-| Texture mapping                                                        | 10            |
-| Normal mapping                                                         | 10(extra)     |
-| Artist Rendering                                                       | 10(extra)     |
-| Programming Style                                                      | 10            |
-
-
-
-## 5. Code Distribution Policy
-
-You acknowledge this code is only for the course learning purpose. You should never distribute any part of this assignment, especially the completed version, to any publicly accessible website or open repository without our permission. Keeping the code in your local computer or private repository is allowed. You should never share, sell, gift, or copy the code in any format with any other person without our permission.
