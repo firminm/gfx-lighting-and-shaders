@@ -1,5 +1,7 @@
 # Programming Assignment 04: Shaded Rendering
 
+## See DEMO/ for Screenshots and Videos
+
 
 ## 1. Overview
 
